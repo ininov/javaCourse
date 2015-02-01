@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+D:\Git\javaCourse\Homework 1\.metadata\.plugins\org.eclipse.jdt.core
+807547425.index

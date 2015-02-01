@@ -3,9 +3,7 @@ import java.util.Scanner;
 public class Cards {
 
 	public static void main(String[] args) {
-
 		Scanner input = new Scanner(System.in);
-
 		System.out.println("Enter symbol of a game card: ");
 		String card = input.nextLine();
 
@@ -55,7 +53,6 @@ public class Cards {
 		default:
 			System.out.println("Invalid card!");
 			break;
-
 		}
 	}
 
